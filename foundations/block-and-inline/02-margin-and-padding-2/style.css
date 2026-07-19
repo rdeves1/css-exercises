@@ -7,6 +7,9 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+
+  padding: 3px;
+  padding-top: 12px;
 }
 
 .title,
