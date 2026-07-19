@@ -18,9 +18,15 @@ body {
   padding: 10px 7px;
 }
 
+.button-container {
+  text-align: center;
+}
 
 button {
   background: white;
+  display: block;
+  margin: 0 auto;
+  padding: 6px 24px;
 }
 
 /* body {
