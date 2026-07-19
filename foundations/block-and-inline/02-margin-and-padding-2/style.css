@@ -19,47 +19,6 @@ body {
 
   margin: 10px;
   padding: 10px 7px;
-
-  
-}
-
-.content {
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
-
-.button-container {
-  text-align: center;
-}
-
-button {
-  background: white;
-  display: block;
-  margin: 0 auto;
-  padding: 6px 24px;
-}
-
-/* body {
-  background: gray;
-  font-family: sans-serif;
-}
-
-.card {
-  width: 420px;
-  background: white;
-  margin: 16px auto;
-
-  padding: 3px;
-  padding-top: 12px;
-}
-
-.title,
-.content,
-.button-container {
-  background: dodgerblue;
-
-  margin: 10px;
-  padding: 10px 7px;
   font-size: 16px;
 }
 
@@ -77,4 +36,4 @@ button {
   display: block;
   margin: 0 auto;
   padding: 6px 24px;
-} */
+}
